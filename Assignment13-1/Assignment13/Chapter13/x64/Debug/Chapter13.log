@@ -1,0 +1,40 @@
+﻿  ApplicationStudentRecords.cpp
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\ApplicationStudentRecords.cpp(502,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\ApplicationStudentRecords.cpp(506,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\ApplicationStudentRecords.cpp(510,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\ApplicationStudentRecords.cpp(514,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\ApplicationStudentRecords.cpp(524,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\ApplicationStudentRecords.cpp(528,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\ApplicationStudentRecords.cpp(532,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\ApplicationStudentRecords.cpp(536,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  SortingSimulations.cpp
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(5,48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(21,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(29,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(38,16): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(159,25): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(160,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(160,23): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(165,10): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(184,25): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(185,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(185,23): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(190,10): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(221,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(264,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(458,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thanh\Downloads\Assignment13\Assignment13\Chapter13\SortingSimulations.cpp(500,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Student.cpp
+  Generating Code...
+  LINK : C:\Users\thanh\Downloads\Assignment13\Assignment13\x64\Debug\Chapter13.exe not found or not built by the last incremental link; performing full link
+  Chapter13.vcxproj -> C:\Users\thanh\Downloads\Assignment13\Assignment13\x64\Debug\Chapter13.exe
